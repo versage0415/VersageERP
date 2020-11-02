@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VersageERP</string>
+    <!-- <string-array name="UserType">
+        <item>Administrator</item>
+        <item>Investisor</item>
+    </string-array>-->
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+</resources>
